@@ -1,4 +1,4 @@
-package com.mahesh.labsync_api;
+package com.labsync.labsync_api;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -9,5 +9,4 @@ public class LabsyncApiApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(LabsyncApiApplication.class, args);
 	}
-
 }
